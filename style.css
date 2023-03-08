@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+
+.header {
+ 
+}
+
+.body {
+  background: #1F2937;
+  box-sizing: border-box;
+  height: 100px;
+
+}
+
+.body2 {
+  height: 100px;  
+}
+
+.body3 {
+  background: #E5E7EB;
+ height: 100px;
+}
+
+.footer {
+	height: 25%;
+ background: #3882F6;
+ align-items: center;
+
+ display: flex;
+ justify-content: space-between;
+
+ margin: 67px
+}
+ .left {
+	 color: white;
+ flex-direction: column;
+ display: flex;
+ margin-left: 25px;
+ margin-top: 25px;
+ margin-bottom: 25px;
+}
+ .right {
+ display: flex;
+ margin-right: 25px;
+}
+
+a {
+ font-size: 10px;
+ color: white;
+}
